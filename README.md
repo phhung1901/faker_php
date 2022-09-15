@@ -1,4 +1,4 @@
-# Bài 1: Demo FakerPHP
+# Demo FakerPHP
 
 Đề bài yêu cầu demo các tính năng của package FakerPHP (https://github.com/FakerPHP/Faker/)
 Thực hiện bởi: ***Phạm Huy Hưng***
